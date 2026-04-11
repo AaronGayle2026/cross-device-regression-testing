@@ -77,4 +77,4 @@ The focus is on ensuring consistent behavior across environments and identifying
 ---
 
 ## Notes
-This project demonstrates structured regression testing across multiple environments, emphasizing real-world QA practices such as validation, edge case handling, and cross-device consistency.# cross-device-regression-testing
+This project demonstrates structured regression testing across multiple environments, emphasizing real-world QA practices such as validation, edge case handling, and cross-device consistency.# cross-device-regression-testing. During cross-device regression testing, both successful and failure scenarios were identified. Some failure cases were intentionally included to demonstrate how defects are captured and documented in real QA workflows.
